@@ -1,4 +1,7 @@
+
 # NYU Tandon Bridge Winter 2024-2025
+
+<img width="1872" height="1404" alt="image" src="https://github.com/user-attachments/assets/eb6ebb7f-7336-4ae7-a746-55eaf4be45fd" />
 
 > The 100% Online NYU Tandon Bridge Certificate program is an affordable, flexible way for students with a non-technical background to develop the skills necessary for a STEM Master’s degree.
 
@@ -15,3 +18,5 @@ Basic proficiency in college algebra and some exposure to C++ is recommended for
 ## Notes
 
 My final grade is **A**, and all the homework and exams (except exam 4) are **corrected** after graded. Feel free to open issues or email me if you have any questions about the Bridge program.
+
+
